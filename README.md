@@ -69,7 +69,7 @@ A B两个部分在代码中也分别对应两个部分，A部分我们需要使�
 
 
 ### UML类图
-![hi_refresh-uml](https://github.com/YaokunLee/RefreshUI/assets/88954609/1ef95a9f-ee52-46d3-8b81-aee3d996d891)
+![hi_refresh-uml](https://github.com/YaokunLee/RefreshUI/assets/88954609/e8140fd8-79e9-459f-a076-801305ae9928)
 
 
 
