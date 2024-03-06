@@ -1,9 +1,6 @@
 # 下拉刷新组件详解
 
 
-
-源码：https://github.com/LiYaokun97/ui-framework
-
 建议跟着源码来理解下面的内容
 
 
